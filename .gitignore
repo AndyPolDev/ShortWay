@@ -88,3 +88,11 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+/.DS_Store
+/Documentation/.DS_Store
+/Icons/.DS_Store
+/Icons/addAddress/.DS_Store
+/Icons/Navigation/.DS_Store
+/Icons/Reload/.DS_Store
+/ShortWay.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+/ShortWay.xcodeproj/project.xcworkspace/contents.xcworkspacedata
